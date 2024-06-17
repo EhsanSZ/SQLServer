@@ -1,0 +1,134 @@
+﻿
+
+/*
+DATE
+
+Range: 0001-01-01 through 9999-12-31
+Storage: 3 Bytes
+*/
+DECLARE @Var DATE = '2021-01-01';
+SELECT @Var;
+SELECT DATALENGTH(@Var);
+GO
+
+/*
+TIME[(n)]
+n: تعیین مقیاس کسری بخش ثانیه
+0<= n <8
+
+Range: 00:00:00.0000000 through 23:59:59.9999999
+Storage: 3-5 Bytes
+*/
+DECLARE @Var TIME(2) = '16:27:49.12';
+SELECT @Var;
+SELECT DATALENGTH(@Var);
+GO
+
+DECLARE @Var TIME(3) = '16:27:49.123';
+SELECT @Var;
+SELECT DATALENGTH(@Var);
+GO
+
+DECLARE @Var TIME(7) = '16:27:49.1234567'
+SELECT @Var
+SELECT DATALENGTH(@Var)
+GO
+
+/*
+SMALLDATETIME
+
+Date Range: 1900-01-01 through 2079-06-06
+Time Range: 00:00:00 through 23:59:59
+Storage: 4 Bytes
+*/
+DECLARE @Var SMALLDATETIME = '2021-01-01 16:27:21';
+SELECT @Var;
+SELECT DATALENGTH(@Var);
+GO
+
+DECLARE @Var SMALLDATETIME = '2021-01-01';
+SELECT @Var;
+SELECT DATALENGTH(@Var);
+GO
+
+DECLARE @Var SMALLDATETIME = '16:27:49';
+SELECT @Var;
+SELECT DATALENGTH(@Var);
+GO
+
+/*
+DATETIME
+
+Date Range: 1753-01-01 through 9999-12-31
+Time Range: 00:00:00 through 23:59:59.997
+Storage: 8 Bytes
+*/
+DECLARE @Var DATETIME = '2021-01-01 16:27:49.123';
+SELECT @Var;
+SELECT DATALENGTH(@Var);
+GO
+
+DECLARE @Var DATETIME = '2021-01-01';
+SELECT @Var;
+SELECT DATALENGTH(@Var);
+GO
+
+DECLARE @Var DATETIME = '16:27:49.123';
+SELECT @Var;
+SELECT DATALENGTH(@Var);
+GO
+
+/*
+DATETIME2[(n)]
+0<= n <8
+
+Date Range: 0001-01-01 through 9999-12-31
+Time Range: 00:00:00 through 23:59:59.9999999
+Storage:
+6 Bytes for precision less than 3.
+7 Bytes for precision 3 or 4.
+All other precision require 8 Bytes.
+*/
+DECLARE @Var DATETIME2(2) = '2021-01-01 16:27:49.12';
+SELECT @Var;
+SELECT DATALENGTH(@Var);
+GO
+
+DECLARE @Var DATETIME2(3) = '2021-01-01 16:27:49.123';
+SELECT @Var;
+SELECT DATALENGTH(@Var);
+GO
+
+DECLARE @Var DATETIME2(7) = '2021-01-01 16:27:49.1234567';
+SELECT @Var;
+SELECT DATALENGTH(@Var);
+GO
+
+DECLARE @Var DATETIME2 = '2021-01-01 16:27:49.12';
+SELECT @Var;
+SELECT DATALENGTH(@Var);
+GO
+
+DECLARE @Var DATETIME2 = '2021-01-01';
+SELECT @Var;
+SELECT DATALENGTH(@Var);
+GO
+
+DECLARE @Var DATETIME2 = '16:27:49.12';
+SELECT @Var;
+SELECT DATALENGTH(@Var);
+GO
+
+/*
+DATETIMEOFFSET(n)
+0<= n <8
+ذخیره‌سازی تاریخ و زمان با استفاده از منطقه جغرافیایی
+
+Date Range: 0001-01-01 through 9999-12-31
+Time Range: 00:00:00 through 23:59:59.9999999
+Time Zone Offset Range:	-14:00 through +14:00
+*/
+DECLARE @Var DATETIMEOFFSET(3) = '2021-01-01 16:27:49 +10:0';
+SELECT @Var;
+SELECT DATALENGTH(@Var);
+GO
