@@ -1,0 +1,84 @@
+﻿
+
+ALTER DATABASE Test01
+SET SINGLE_USER
+WITH ROLLBACK IMMEDIATE;
+
+USE master;
+
+DROP DATABASE IF EXISTS Test01;
+GO
+
+CREATE DATABASE Test01;
+GO
+
+USE Test01;
+GO
+
+SELECT * FROM sys.sysfiles;
+GO
+
+EXEC SP_HELPFILE;
+GO
+
+USE master;
+GO
+
+DROP DATABASE IF EXISTS Test01;
+GO
+
+CREATE DATABASE Test01 
+	ON
+	(NAME = naDB1, FILENAME = 'E:\DUMP\Test01Data1.mdf', SIZE = 10MB, MAXSIZE = 100, FILEGROWTH = 20MB),
+	(NAME = naDB2, FILENAME = 'E:\DUMP\Test01Data2.ndf', SIZE = 15MB, MAXSIZE = 100, FILEGROWTH = 20%),
+	(NAME = naDB3, FILENAME = 'E:\DUMP\Test01Data3.ndf', SIZE = 10MB, MAXSIZE = UNLIMITED, FILEGROWTH = 20)
+LOG ON 
+	(NAME = naL1, FILENAME = 'E:\DUMP\Test01Log1.ldf', SIZE = 100MB, MAXSIZE = 100, FILEGROWTH = 20),
+	(NAME = naL2, FILENAME = 'E:\DUMP\Test01Log2.ldf', SIZE = 50MB, MAXSIZE = 100, FILEGROWTH = 20);
+GO
+
+-- Wizard مشاهده موارد بالا از طریق
+
+USE Test01;
+GO
+
+SELECT * FROM sys.sysfiles;
+GO
+
+EXEC SP_HELPFILE;
+GO
+
+-- به دیتابیس Data File اضافه کردن یک
+ALTER DATABASE Test01
+	ADD FILE
+		(
+			NAME = naDB24, FILENAME = 'D:\DUMP\Test01Data6.mdf', SIZE = 10MB, MAXSIZE = 200, FILEGROWTH = 20MB
+		);
+GO
+
+SELECT * FROM sys.sysfiles;
+GO
+
+EXEC SP_HELPFILE;
+GO
+
+-- به دیتابیس LOG File اضافه کردن یک
+ALTER DATABASE Test01
+	ADD LOG FILE 
+		(
+			NAME = naL3, FILENAME = 'E:\DUMP\Test01Log3.ldf', SIZE = 2MB, MAXSIZE = 30MB, FILEGROWTH = 15MB
+		);
+GO
+
+SELECT * FROM sys.sysfiles;
+GO
+
+EXEC SP_HELPFILE;
+GO
+--------------------------------------------------------------------
+
+USE master;
+GO
+
+DROP DATABASE IF EXISTS Test01;
+GO
