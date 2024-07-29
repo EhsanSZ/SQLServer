@@ -1,0 +1,81 @@
+E:\NikAmooz\PerformanceTuning_Course\Session02\Section04\SampleC#\SQLFilestream\SQLFilestream\bin\Debug\SQLFilestream.exe.config
+E:\NikAmooz\PerformanceTuning_Course\Session02\Section04\SampleC#\SQLFilestream\SQLFilestream\bin\Debug\SQLFilestream.exe
+E:\NikAmooz\PerformanceTuning_Course\Session02\Section04\SampleC#\SQLFilestream\SQLFilestream\bin\Debug\SQLFilestream.pdb
+E:\NikAmooz\PerformanceTuning_Course\Session02\Section04\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.csprojResolveAssemblyReference.cache
+E:\NikAmooz\PerformanceTuning_Course\Session02\Section04\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.Properties.Resources.resources
+E:\NikAmooz\PerformanceTuning_Course\Session02\Section04\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.csproj.GenerateResource.Cache
+E:\NikAmooz\PerformanceTuning_Course\Session02\Section04\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.exe
+E:\NikAmooz\PerformanceTuning_Course\Session02\Section04\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.pdb
+E:\NikAmooz\PerformanceTuning_Course\Session02\Section04\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.Form1.resources
+E:\NikAmooz\دوره ها\PerformanceTuning_Course\Session02\Section04\SampleC#\SQLFilestream\SQLFilestream\bin\Debug\SQLFilestream.exe.config
+E:\NikAmooz\دوره ها\PerformanceTuning_Course\Session02\Section04\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.exe
+E:\NikAmooz\دوره ها\PerformanceTuning_Course\Session02\Section04\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.pdb
+E:\NikAmooz\دوره ها\PerformanceTuning_Course\Session02\Section04\SampleC#\SQLFilestream\SQLFilestream\bin\Debug\SQLFilestream.exe
+E:\NikAmooz\دوره ها\PerformanceTuning_Course\Session02\Section04\SampleC#\SQLFilestream\SQLFilestream\bin\Debug\SQLFilestream.pdb
+E:\NikAmooz\دوره ها\PerformanceTuning_Course\Session02\Section04\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.csprojResolveAssemblyReference.cache
+E:\NikAmooz\دوره ها\PerformanceTuning_Course\Session02\Section04\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.Form1.resources
+E:\NikAmooz\دوره ها\PerformanceTuning_Course\Session02\Section04\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.FormFilestream.resources
+E:\NikAmooz\دوره ها\PerformanceTuning_Course\Session02\Section04\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.Properties.Resources.resources
+E:\NikAmooz\دوره ها\PerformanceTuning_Course\Session02\Section04\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.csproj.GenerateResource.Cache
+E:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session03\Section01\SampleC#\SQLFilestream\SQLFilestream\bin\Debug\SQLFilestream.exe.config
+E:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session03\Section01\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.exe
+E:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session03\Section01\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.pdb
+E:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session03\Section01\SampleC#\SQLFilestream\SQLFilestream\bin\Debug\SQLFilestream.exe
+E:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session03\Section01\SampleC#\SQLFilestream\SQLFilestream\bin\Debug\SQLFilestream.pdb
+E:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session03\Section01\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.csprojResolveAssemblyReference.cache
+E:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session03\Section01\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.Properties.Resources.resources
+E:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session03\Section01\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.csproj.GenerateResource.Cache
+E:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session03\Section01\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.frmInsertData_ClasicModel.resources
+E:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session03\Section01\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.frmInsertData_NewModel.resources
+E:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session03\Section01\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.frmMain.resources
+E:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session03\Section01\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.frmSelectData.resources
+D:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session03\Section01\SampleC#\SQLFilestream\SQLFilestream\bin\Debug\SQLFilestream.exe.config
+D:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session03\Section01\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.exe
+D:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session03\Section01\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.pdb
+D:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session03\Section01\SampleC#\SQLFilestream\SQLFilestream\bin\Debug\SQLFilestream.exe
+D:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session03\Section01\SampleC#\SQLFilestream\SQLFilestream\bin\Debug\SQLFilestream.pdb
+D:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session03\Section01\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.csprojResolveAssemblyReference.cache
+D:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session03\Section01\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.frmInsertData_ClasicModel.resources
+D:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session03\Section01\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.frmInsertData_NewModel.resources
+D:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session03\Section01\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.frmMain.resources
+D:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session03\Section01\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.frmSelectData.resources
+D:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session03\Section01\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.Properties.Resources.resources
+D:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session03\Section01\SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.csproj.GenerateResource.Cache
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session05\Scripts\07-SampleC#\SQLFilestream\SQLFilestream\bin\Debug\SQLFilestream.exe.config
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session05\Scripts\07-SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.exe
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session05\Scripts\07-SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.pdb
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session05\Scripts\07-SampleC#\SQLFilestream\SQLFilestream\bin\Debug\SQLFilestream.exe
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session05\Scripts\07-SampleC#\SQLFilestream\SQLFilestream\bin\Debug\SQLFilestream.pdb
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session05\Scripts\07-SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.csprojResolveAssemblyReference.cache
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session05\Scripts\07-SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.frmInsertData_ClasicModel.resources
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session05\Scripts\07-SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.frmInsertData_NewModel.resources
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session05\Scripts\07-SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.frmMain.resources
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session05\Scripts\07-SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.frmSelectData.resources
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session05\Scripts\07-SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.Properties.Resources.resources
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session05\Scripts\07-SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.csproj.GenerateResource.Cache
+E:\@@ Performance\Session (5)\Sample\Scripts\07-SampleC#\SQLFilestream\SQLFilestream\bin\Debug\SQLFilestream.exe.config
+E:\@@ Performance\Session (5)\Sample\Scripts\07-SampleC#\SQLFilestream\SQLFilestream\bin\Debug\SQLFilestream.exe
+E:\@@ Performance\Session (5)\Sample\Scripts\07-SampleC#\SQLFilestream\SQLFilestream\bin\Debug\SQLFilestream.pdb
+E:\@@ Performance\Session (5)\Sample\Scripts\07-SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.csprojAssemblyReference.cache
+E:\@@ Performance\Session (5)\Sample\Scripts\07-SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.frmInsertData_ClasicModel.resources
+E:\@@ Performance\Session (5)\Sample\Scripts\07-SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.frmInsertData_NewModel.resources
+E:\@@ Performance\Session (5)\Sample\Scripts\07-SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.frmMain.resources
+E:\@@ Performance\Session (5)\Sample\Scripts\07-SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.frmSelectData.resources
+E:\@@ Performance\Session (5)\Sample\Scripts\07-SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.Properties.Resources.resources
+E:\@@ Performance\Session (5)\Sample\Scripts\07-SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.csproj.GenerateResource.cache
+E:\@@ Performance\Session (5)\Sample\Scripts\07-SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.csproj.CoreCompileInputs.cache
+E:\@@ Performance\Session (5)\Sample\Scripts\07-SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.exe
+E:\@@ Performance\Session (5)\Sample\Scripts\07-SampleC#\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.pdb
+E:\Nikamooz\My Projects\Course\Developers\SQL Server for Developers\Session 12\Scripts\Filestream\SQLFilestream\SQLFilestream\bin\Debug\SQLFilestream.exe.config
+E:\Nikamooz\My Projects\Course\Developers\SQL Server for Developers\Session 12\Scripts\Filestream\SQLFilestream\SQLFilestream\bin\Debug\SQLFilestream.exe
+E:\Nikamooz\My Projects\Course\Developers\SQL Server for Developers\Session 12\Scripts\Filestream\SQLFilestream\SQLFilestream\bin\Debug\SQLFilestream.pdb
+E:\Nikamooz\My Projects\Course\Developers\SQL Server for Developers\Session 12\Scripts\Filestream\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.csprojAssemblyReference.cache
+E:\Nikamooz\My Projects\Course\Developers\SQL Server for Developers\Session 12\Scripts\Filestream\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.frmInsertData_ClasicModel.resources
+E:\Nikamooz\My Projects\Course\Developers\SQL Server for Developers\Session 12\Scripts\Filestream\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.frmInsertData_NewModel.resources
+E:\Nikamooz\My Projects\Course\Developers\SQL Server for Developers\Session 12\Scripts\Filestream\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.frmMain.resources
+E:\Nikamooz\My Projects\Course\Developers\SQL Server for Developers\Session 12\Scripts\Filestream\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.frmSelectData.resources
+E:\Nikamooz\My Projects\Course\Developers\SQL Server for Developers\Session 12\Scripts\Filestream\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.Properties.Resources.resources
+E:\Nikamooz\My Projects\Course\Developers\SQL Server for Developers\Session 12\Scripts\Filestream\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.csproj.GenerateResource.cache
+E:\Nikamooz\My Projects\Course\Developers\SQL Server for Developers\Session 12\Scripts\Filestream\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.csproj.CoreCompileInputs.cache
+E:\Nikamooz\My Projects\Course\Developers\SQL Server for Developers\Session 12\Scripts\Filestream\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.exe
+E:\Nikamooz\My Projects\Course\Developers\SQL Server for Developers\Session 12\Scripts\Filestream\SQLFilestream\SQLFilestream\obj\Debug\SQLFilestream.pdb

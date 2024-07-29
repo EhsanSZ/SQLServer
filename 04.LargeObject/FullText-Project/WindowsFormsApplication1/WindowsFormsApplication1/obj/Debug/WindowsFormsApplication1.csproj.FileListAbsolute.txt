@@ -1,0 +1,43 @@
+C:\dump\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\dump\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\dump\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\dump\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\dump\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\dump\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\dump\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\dump\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\dump\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\NikAmooz\دوره ها\SQLServerForDevelopers\Projects\FullText\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\NikAmooz\دوره ها\SQLServerForDevelopers\Projects\FullText\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\NikAmooz\دوره ها\SQLServerForDevelopers\Projects\FullText\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\NikAmooz\دوره ها\SQLServerForDevelopers\Projects\FullText\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\NikAmooz\دوره ها\SQLServerForDevelopers\Projects\FullText\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\NikAmooz\دوره ها\SQLServerForDevelopers\Projects\FullText\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\NikAmooz\دوره ها\SQLServerForDevelopers\Projects\FullText\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\NikAmooz\دوره ها\SQLServerForDevelopers\Projects\FullText\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\NikAmooz\دوره ها\SQLServerForDevelopers\Projects\FullText\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\NikAmooz\دوره ها\SQLServerForDevelopers\Session10\Section02\FullText-Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\NikAmooz\دوره ها\SQLServerForDevelopers\Session10\Section02\FullText-Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\NikAmooz\دوره ها\SQLServerForDevelopers\Session10\Section02\FullText-Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\NikAmooz\دوره ها\SQLServerForDevelopers\Session10\Section02\FullText-Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\NikAmooz\دوره ها\SQLServerForDevelopers\Session10\Section02\FullText-Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\NikAmooz\دوره ها\SQLServerForDevelopers\Session10\Section02\FullText-Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session17\Scripts\FullText-Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session17\Scripts\FullText-Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session17\Scripts\FullText-Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session17\Scripts\FullText-Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session17\Scripts\FullText-Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session17\Scripts\FullText-Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session17\Scripts\FullText-Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session17\Scripts\FullText-Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session17\Scripts\FullText-Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\@@ Performance\Session (17)\Sample\FullText-Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\@@ Performance\Session (17)\Sample\FullText-Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\@@ Performance\Session (17)\Sample\FullText-Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\@@ Performance\Session (17)\Sample\FullText-Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+E:\@@ Performance\Session (17)\Sample\FullText-Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\@@ Performance\Session (17)\Sample\FullText-Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\@@ Performance\Session (17)\Sample\FullText-Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\@@ Performance\Session (17)\Sample\FullText-Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\@@ Performance\Session (17)\Sample\FullText-Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\@@ Performance\Session (17)\Sample\FullText-Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
